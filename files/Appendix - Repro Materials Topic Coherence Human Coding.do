@@ -1,6 +1,6 @@
 ****Human Ratings of Topics Generated from Topic Models for Coherence & Relevance
 
-* Author: [blinded]
+* Author: Eike Mark Rinke (University of Leeds, E.M.Rinke@leeds.ac.uk)
 * This Version: 1 August 2018
 
 /*

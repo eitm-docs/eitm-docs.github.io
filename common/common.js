@@ -12,7 +12,7 @@ function getBase(l) {
 }
 
 function getHeader(b, p) {
-	return "<h1>Expert-Informed Topic Models for Document Set Discovery [blinded for review]</h1>";
+	return "<h1>Expert-Informed Topic Models for Document Set Discovery</h1>";
 }
 				
 function getFooter(b, p) {

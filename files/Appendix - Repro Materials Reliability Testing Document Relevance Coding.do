@@ -1,7 +1,7 @@
 **** EXPERT-INFORMED TOPIC MODELS FOR DOCUMENT SET DISCOVERY ****
 **** Analytical Code for Human Coding of Thematic Document Relevance ****
 
-* Author: [blinded]
+* Author: Eike Mark Rinke (University of Leeds, E.M.Rinke@leeds.ac.uk)
 * This Version: 4 December 2019
 
 /*
